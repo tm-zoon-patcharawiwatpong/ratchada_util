@@ -19,6 +19,6 @@ setup(
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.10, <3.12',
-    install_requires=install_requires
+    install_requires=install_requires,
     include_package_data=True,
 )
